@@ -1,0 +1,49 @@
+ANCH,Ancient History
+ANTH,Anthropology
+ARAB,Arabic
+ARTH,Art History
+ARTT,Art
+ASIA,Asian Studies
+ASTR,Astronomy
+BIOL,Biology
+BLST,Black Studies
+CHEM,Chemistry
+CHIN,Chinese
+CLST,Classics
+COGS,Cognitive Science
+CPLT,Comparative Literature
+CPSC,Computer Science
+DANC,Dance
+ECON,Economics
+EDUC,Educational Studies
+ENGL,English
+ENGR,Engineering
+ENVS,Environmental Studies
+FMST,Film & Media Studies
+FREN,French & Francophone Studies
+GLBL,Global Studies
+GMST,German Studies
+GREK,Greek
+GSST,Gender & Sexuality Studies
+HIST,History
+ISLM,Islamic Studies
+JPNS,Japanese
+LALS,Latin-American & Latino Studies
+LATN,Latin
+LING,Linguistics
+LITR,Literature
+MATH,Mathematics
+MUSI,Music
+PEAC,Peace & Conflict Studies
+PHED,Physical Studies
+PHIL,Philosophy
+PHYS,Physics
+POLS,Political Science
+PSYC,Psychology
+RELG,Religion
+RUSS,Russian
+SOAN,Sociology & Anthropology
+SOCI,Sociology
+SPAN,Spanish
+STAT,Statistics
+THEA,Theater

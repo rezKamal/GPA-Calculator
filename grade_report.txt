@@ -1,0 +1,45 @@
+
+	Student Records
+
+Personal Information
+
+Name:  	Rezhwan Amanj Kamal	Class Year:  	2023
+Majors:  	Engineering, Computer Science
+Minors:
+Honors:
+College ID:  	902191003
+
+Unofficial Grade Report - including PE courses
+
+Term: Spring 2021                                       Credits Earned:  4.5
+Course	Course Title	Crse	Grade	Distribution	Instructor/Institution
+CPSC 031 02	R:Intro to Computer Systems	1	A	NS, NSEP	Danner, Andrew
+ENGR 012 01	R:Linear Physical Syst Analys	1	A+	NS, NSEP	Cheever, Erik
+ENGR 025 01	R:Prin of Computer Architect	1	A	NS, NSEP	Delano, Margaret
+LING 073 01	R:Computational Linguistics	1	A+	SS	Washington, Jonathan
+LING 094 01	Rsch Proj:	.5	CR	-	Gasser, Emily
+Term: January 2021                                      Credits Earned:  1
+Course	Course Title	Crse	Grade	Distribution	Instructor/Institution
+ECON 055 01	R:Behavioral Economics	1	A	SS	Bhanot, Syon
+Term: Fall 2020                                         Credits Earned:  4
+Course	Course Title	Crse	Grade	Distribution	Instructor/Institution
+CHEM 010 02	R:Fdns of Chemical Principles	1	A	NS, NSEP	Riley, Kathryn
+CPSC 035 01	R:Data Structures and Algorith	1	A+	NS, NSEP	Palmer, Zachary
+ENGR 011 01	R:Electrical Circuit Analysis	1	A	NS, NSEP	Molter, Lynne
+MATH 034 01	R:Several Variable Calculus	1	A-	NS	Talvacchia, Janet
+PHED 002A 09	H:Fitness Training- Fall I	0	1	PE	Finley, Melissa
+Term: Spring 2020                                       Credits Earned:  5
+Course	Course Title	Crse	Grade	Distribution	Instructor/Institution
+CPSC 021 01	Intro to Computer Science	1	CR	NS, NSEP	Meeden, Lisa
+ECON 001 04	Introduction to Economics	1	CR	SS	Caskey, John
+ENGR 006 01	Mechanics	1	CR	NS, NSEP	Everbach, Carr
+MATH 027 01	Linear Algebra	1	CR	NS	Whitehead, Ian
+PHYS 004 01	General Physics II	1	CR	NS, NSEP	Ko, Wing-Ho
+Term: Fall 2019                                         Credits Earned:  5
+Course	Course Title	Crse	Grade	Distribution	Instructor/Institution
+ENGL 001F 01	FYS:Trans to College Wrtg (W)	1	CR	HU, W	Newmann Holmes, Alba
+ENGR 015 01	Fundamentals-Digital Systems	1	CR	NS, NSEP	Delano, Margaret
+MATH 015 03	Elem Single Variable Calculus	1	CR	NS	Chen, Linda
+MATH 025 02	FurtherTpcs:Single VarCalculus	1	CR	NS	Black, Rebecca
+PHED 010B 01	RAD: Self-Defense-Mens	0	1	PE	Hill, Michael
+PHYS 003 01	General Physics I	1	CR	NS, NSEP	Ko, Wing-Ho
